@@ -1,0 +1,11 @@
+/Users/punchcode/Projects/consoleproject/bin/Debug/netcoreapp3.0/consoleproject
+/Users/punchcode/Projects/consoleproject/bin/Debug/netcoreapp3.0/consoleproject.deps.json
+/Users/punchcode/Projects/consoleproject/bin/Debug/netcoreapp3.0/consoleproject.runtimeconfig.json
+/Users/punchcode/Projects/consoleproject/bin/Debug/netcoreapp3.0/consoleproject.runtimeconfig.dev.json
+/Users/punchcode/Projects/consoleproject/bin/Debug/netcoreapp3.0/consoleproject.dll
+/Users/punchcode/Projects/consoleproject/bin/Debug/netcoreapp3.0/consoleproject.pdb
+/Users/punchcode/Projects/consoleproject/obj/Debug/netcoreapp3.0/consoleproject.csprojAssemblyReference.cache
+/Users/punchcode/Projects/consoleproject/obj/Debug/netcoreapp3.0/consoleproject.AssemblyInfoInputs.cache
+/Users/punchcode/Projects/consoleproject/obj/Debug/netcoreapp3.0/consoleproject.AssemblyInfo.cs
+/Users/punchcode/Projects/consoleproject/obj/Debug/netcoreapp3.0/consoleproject.dll
+/Users/punchcode/Projects/consoleproject/obj/Debug/netcoreapp3.0/consoleproject.pdb
