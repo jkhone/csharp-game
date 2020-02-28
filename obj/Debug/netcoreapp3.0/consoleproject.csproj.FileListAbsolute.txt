@@ -9,3 +9,13 @@
 /Users/punchcode/Projects/consoleproject/obj/Debug/netcoreapp3.0/consoleproject.AssemblyInfo.cs
 /Users/punchcode/Projects/consoleproject/obj/Debug/netcoreapp3.0/consoleproject.dll
 /Users/punchcode/Projects/consoleproject/obj/Debug/netcoreapp3.0/consoleproject.pdb
+/Users/jasperkhonesavanh/Projects/school/csharp-game/bin/Debug/netcoreapp3.0/consoleproject.deps.json
+/Users/jasperkhonesavanh/Projects/school/csharp-game/bin/Debug/netcoreapp3.0/consoleproject.runtimeconfig.json
+/Users/jasperkhonesavanh/Projects/school/csharp-game/bin/Debug/netcoreapp3.0/consoleproject.runtimeconfig.dev.json
+/Users/jasperkhonesavanh/Projects/school/csharp-game/bin/Debug/netcoreapp3.0/consoleproject.dll
+/Users/jasperkhonesavanh/Projects/school/csharp-game/bin/Debug/netcoreapp3.0/consoleproject.pdb
+/Users/jasperkhonesavanh/Projects/school/csharp-game/obj/Debug/netcoreapp3.0/consoleproject.csprojAssemblyReference.cache
+/Users/jasperkhonesavanh/Projects/school/csharp-game/obj/Debug/netcoreapp3.0/consoleproject.AssemblyInfoInputs.cache
+/Users/jasperkhonesavanh/Projects/school/csharp-game/obj/Debug/netcoreapp3.0/consoleproject.AssemblyInfo.cs
+/Users/jasperkhonesavanh/Projects/school/csharp-game/obj/Debug/netcoreapp3.0/consoleproject.dll
+/Users/jasperkhonesavanh/Projects/school/csharp-game/obj/Debug/netcoreapp3.0/consoleproject.pdb

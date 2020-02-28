@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "/Users/punchcode/.nuget/packages/": {}
+    "/Users/jasperkhonesavanh/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/punchcode/Projects/consoleproject/consoleproject.csproj",
+      "projectUniqueName": "/Users/jasperkhonesavanh/Projects/school/csharp-game/consoleproject.csproj",
       "projectName": "consoleproject",
-      "projectPath": "/Users/punchcode/Projects/consoleproject/consoleproject.csproj",
-      "packagesPath": "/Users/punchcode/.nuget/packages/",
-      "outputPath": "/Users/punchcode/Projects/consoleproject/obj/",
+      "projectPath": "/Users/jasperkhonesavanh/Projects/school/csharp-game/consoleproject.csproj",
+      "packagesPath": "/Users/jasperkhonesavanh/.nuget/packages/",
+      "outputPath": "/Users/jasperkhonesavanh/Projects/school/csharp-game/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/punchcode/.nuget/NuGet/NuGet.Config"
+        "/Users/jasperkhonesavanh/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -51,12 +51,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
       }
     }
   }

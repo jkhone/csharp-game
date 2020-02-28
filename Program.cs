@@ -1,7 +1,7 @@
 ﻿// SIMPLE ROCK, PAPER, SCISSORS GAME
 // Use "dotnet run" in the integrated terminal to run 
-// If you want to run in desktop terminal, change - "console": "integratedTerminal", - to "console": "internalConsole", - inside launch.json
-// It asks you to put in either rock, paper, or scissors
+// If you want to run in internal console, change - "console": "integratedTerminal", - to "console": "internalConsole", - inside launch.json
+// It asks you to put in either rock, paper, or scissors after you've run it
 // When you input something, the computer will randomly generate a choice and a score is added based on who wins
 // First to three rounds wins and you have the option to replay
 // Enjoy!
@@ -42,6 +42,8 @@ namespace consoleproject
                     
                     // checks to see if input is valid choice, then checks for round winner
                     if (inputPlayer == "ROCK" | inputPlayer == "PAPER" | inputPlayer == "SCISSORS") {
+                        // contains all different outcomes of the game
+                        // adds plus one to score of the winner
                         switch (randomInt)
                     {
                         case 1:
@@ -98,16 +100,14 @@ namespace consoleproject
                                 compScore++;
                             }
                             break;
-
+                        // check in place to make sure you put a valid input of
                         default:
                             Console.WriteLine("Invalid entry!");
                             break;
                     }
                     } else {
                         Console.WriteLine("Invalid entry, choose again.");
-                    }
-                    // ^ does all checks to see who wins ^
-                  
+                    }                  
                     // keeps track of score
                     Console.WriteLine("\n\nSCORES:\tPLAYER:\t{0}\tCPU:\t{1}",playerScore, compScore);
  

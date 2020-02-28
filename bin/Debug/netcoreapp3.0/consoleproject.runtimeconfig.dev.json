@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/punchcode/.dotnet/store/|arch|/|tfm|",
-      "/Users/punchcode/.nuget/packages"
+      "/Users/jasperkhonesavanh/.dotnet/store/|arch|/|tfm|",
+      "/Users/jasperkhonesavanh/.nuget/packages"
     ]
   }
 }
